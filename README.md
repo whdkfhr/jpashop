@@ -24,8 +24,8 @@ spring boot + jpa web application
 ***
 
 ### 성능 최적화
-- JPA 극한의 조회 성능 최적화
-- 6단계로 성능 개선
+- JPA 조회 성능 최적화
+  - 6단계로 성능 개선
 
 ***
 
